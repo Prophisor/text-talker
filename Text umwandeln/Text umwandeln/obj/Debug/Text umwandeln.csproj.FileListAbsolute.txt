@@ -1,0 +1,20 @@
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\bin\Debug\Text umwandeln.exe.config
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\bin\Debug\Text umwandeln.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\bin\Debug\Text umwandeln.pdb
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.csproj.AssemblyReference.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text_umwandeln.Form1.resources
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text_umwandeln.Properties.Resources.resources
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.csproj.GenerateResource.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.csproj.CoreCompileInputs.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.pdb
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\bin\Debug\Text umwandeln.exe.config
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\bin\Debug\Text umwandeln.exe
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\bin\Debug\Text umwandeln.pdb
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.csproj.AssemblyReference.cache
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text_umwandeln.Form1.resources
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text_umwandeln.Properties.Resources.resources
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.csproj.GenerateResource.cache
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.csproj.CoreCompileInputs.cache
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.exe
+I:\develop\C#\C#-Programme\Text umwandeln\Text umwandeln\obj\Debug\Text umwandeln.pdb
